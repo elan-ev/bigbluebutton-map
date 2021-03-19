@@ -3,6 +3,6 @@
   "features":[
     {"type": "Feature", "properties": {"institution": "Osnabr\u00fcck University"}, "geometry": {"type": "Point", "coordinates": [8.049741, 52.266837]}},
     {"type": "Feature", "properties": {"institution": "ELAN e.V."}, "geometry": {"type": "Point", "coordinates": [8.221309, 53.146394]}},
-    {"type": "Feature", "properties": {"institution": "BHT University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13,21101, 52,32402]}}
+    {"type": "Feature", "properties": {"institution": "BHT University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13,3531956, 52,5447462]}}
   ]
 }
