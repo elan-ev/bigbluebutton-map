@@ -20,6 +20,7 @@
     {"type": "Feature", "properties": {"institution": "Technical University of Applied Sciences Lübeck"}, "geometry": {"type": "Point", "coordinates": [10.7002646, 53.837048]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Essen"}, "geometry": {"type": "Point", "coordinates": [7.0037251, 51.4629195]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Duisburg"}, "geometry": {"type": "Point", "coordinates": [6.8008580326401, 51.4290899]}},
+    {"type": "Feature", "properties": {"institution": "Hamburg University, MIN Faculty"}, "geometry": {"type": "Point", "coordinates": [9.9835937, 53.5578783]}},
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
     {"type": "Feature", "properties": {"institution": "University of Applied Sciences Zittau/Görlitz, Zittau"}, "geometry": {"type": "Point", "coordinates": [14.806356298150046,50.89345725488705]}},
     {"type": "Feature", "properties": {"institution": "University of Applied Sciences Zittau/Görlitz, Görlitz"}, "geometry": {"type": "Point", "coordinates": [14.998820666008614,51.14876834128409]}},
