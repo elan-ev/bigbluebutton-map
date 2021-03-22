@@ -20,6 +20,7 @@
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Duisburg"}, "geometry": {"type": "Point", "coordinates": [6.8008580326401, 51.4290899]}},
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
     {"type": "Feature", "properties": {"institution": "Clausthal University of Technology"}, "geometry": {"type": "Point", "coordinates": [10.3425,51.8048]}},
-    {"type": "Feature", "properties": {"institution": "IGS Helene-Lange-Schule Oldenburg"}, "geometry": {"type": "Point", "coordinates": [8.202280359376182,53.1308825]}}
+    {"type": "Feature", "properties": {"institution": "IGS Helene-Lange-Schule Oldenburg"}, "geometry": {"type": "Point", "coordinates": [8.202280359376182,53.1308825]}},
+    {"type": "Feature", "properties": {"institution": "h_da Univeristy of Applied Sciences Darmstadt"}, "geometry": {"type": "Point", "coordinates": [8.638140,49.867354]}}
   ]
 }
