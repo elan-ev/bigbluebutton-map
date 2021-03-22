@@ -9,6 +9,7 @@
     {"type": "Feature", "properties": {"institution": "University of Paderborn"}, "geometry": {"type": "Point", "coordinates": [8.76921, 51.70747]}},
     {"type": "Feature", "properties": {"institution": "University of Vechta"}, "geometry": {"type": "Point", "coordinates": [8.291974, 52.7214696]}},
     {"type": "Feature", "properties": {"institution": "University of Innsbruck"}, "geometry": {"type": "Point", "coordinates": [11.3358, 47.2855]}},
+    {"type": "Feature", "properties": {"institution": "SWEETGOOD"}, "geometry": {"type": "Point", "coordinates": [10.98729, 49.10773]}},
     {"type": "Feature", "properties": {"institution": "Brandenburgische Technische Universität Cottbus–Senftenberg"}, "geometry": {"type": "Point", "coordinates": [14.3228853, 51.7678493]}},
     {"type": "Feature", "properties": {"institution": "University of Vechta"}, "geometry": {"type": "Point", "coordinates": [8.2937678, 52.7211561]}},
     {"type": "Feature", "properties": {"institution": "University of Wismar"}, "geometry": {"type": "Point", "coordinates": [11.44578, 53.88987]}},
