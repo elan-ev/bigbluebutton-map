@@ -23,6 +23,7 @@
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
     {"type": "Feature", "properties": {"institution": "Clausthal University of Technology"}, "geometry": {"type": "Point", "coordinates": [10.3425,51.8048]}},
     {"type": "Feature", "properties": {"institution": "IGS Helene-Lange-Schule Oldenburg"}, "geometry": {"type": "Point", "coordinates": [8.202280359376182,53.1308825]}},
-    {"type": "Feature", "properties": {"institution": "h_da Univeristy of Applied Sciences Darmstadt"}, "geometry": {"type": "Point", "coordinates": [8.638140,49.867354]}}
+    {"type": "Feature", "properties": {"institution": "h_da Univeristy of Applied Sciences Darmstadt"}, "geometry": {"type": "Point", "coordinates": [8.638140,49.867354]}},
+    {"type": "Feature", "properties": {"institution": "GzEvD - Gesellschaft zur Entwicklung von Dingen mbH"}, "geometry": {"type": "Point", "coordinates": [52.556229, 13.3839152]}}
   ]
 }
