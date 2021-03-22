@@ -4,7 +4,7 @@
     {"type": "Feature", "properties": {"institution": "Osnabr\u00fcck University"}, "geometry": {"type": "Point", "coordinates": [8.049741, 52.266837]}},
     {"type": "Feature", "properties": {"institution": "ELAN e.V."}, "geometry": {"type": "Point", "coordinates": [8.221309, 53.146394]}},
     {"type": "Feature", "properties": {"institution": "BHT University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13.3531956, 52.5447462]}},
-    {"type": "Feature", "properties": {"institution": "University of Paderborn"}, "geometry": {"type": "Point", "coordinates": [8.76913, 51.70737]}},
+    {"type": "Feature", "properties": {"institution": "University of Paderborn"}, "geometry": {"type": "Point", "coordinates": [8.76921, 51.70747]}},
     {"type": "Feature", "properties": {"institution": "University of Vechta"}, "geometry": {"type": "Point", "coordinates": [8.2937678, 52.7211561]}},
     {"type": "Feature", "properties": {"institution": "University of Wismar"}, "geometry": {"type": "Point", "coordinates": [11.44578, 53.88987]}},
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}}
