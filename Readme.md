@@ -13,6 +13,7 @@ To do so, add this object with your data as a new line `features`-list in said f
 ```
 
 Replace `YOUR_INSTITUION` and `[0.0, 0.0]` with your `lon` and `lat` coordinates, respectively, and your good to go.
+_Note:_ To avoid merge conflicts with other branches, it is recommended to not just append your entry to the end of the list but to insert it as a single line somewhere in the middle (followed by a comma).
 
 ### How to get your Coordinates
 
