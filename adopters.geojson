@@ -9,6 +9,8 @@
     {"type": "Feature", "properties": {"institution": "Brandenburgische Technische Universität Cottbus–Senftenberg"}, "geometry": {"type": "Point", "coordinates": [14.3228853, 51.7678493]}},
     {"type": "Feature", "properties": {"institution": "University of Vechta"}, "geometry": {"type": "Point", "coordinates": [8.2937678, 52.7211561]}},
     {"type": "Feature", "properties": {"institution": "University of Wismar"}, "geometry": {"type": "Point", "coordinates": [11.44578, 53.88987]}},
+    {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
+    {"type": "Feature", "properties": {"institution": "Hochschule Bremerhaven"}, "geometry": {"type": "Point", "coordinates": [8.5820637, 53.5397555]}},
     {"type": "Feature", "properties": {"institution": "University of Vechta"}, "geometry": {"type": "Point", "coordinates": [8.291974, 52.7214696]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Essen"}, "geometry": {"type": "Point", "coordinates": [7.0037251, 51.4629195]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Duisburg"}, "geometry": {"type": "Point", "coordinates": [6.8008580326401, 51.4290899]}},
