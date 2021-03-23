@@ -30,6 +30,7 @@
     {"type": "Feature", "properties": {"institution": "IGS Helene-Lange-Schule Oldenburg"}, "geometry": {"type": "Point", "coordinates": [8.202280359376182,53.1308825]}},
     {"type": "Feature", "properties": {"institution": "Humboldt-Universität zu Berlin"}, "geometry": {"type": "Point", "coordinates": [13.39287840245042, 52.51858145]}},
     {"type": "Feature", "properties": {"institution": "h_da Univeristy of Applied Sciences Darmstadt"}, "geometry": {"type": "Point", "coordinates": [8.638140,49.867354]}},
-    {"type": "Feature", "properties": {"institution": "GzEvD - Gesellschaft zur Entwicklung von Dingen mbH"}, "geometry": {"type": "Point", "coordinates": [13.3839152, 52.556229]}}
+    {"type": "Feature", "properties": {"institution": "GzEvD - Gesellschaft zur Entwicklung von Dingen mbH"}, "geometry": {"type": "Point", "coordinates": [13.3839152, 52.556229]}},
+    {"type": "Feature", "properties": {"institution": "Technische Hochschule Wildau"}, "geometry": {"type": "Point", "coordinates": [13.632191, 52.318869]}}
   ]
 }
