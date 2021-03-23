@@ -4,6 +4,7 @@
     {"type": "Feature", "properties": {"institution": "Osnabr\u00fcck University"}, "geometry": {"type": "Point", "coordinates": [8.049741, 52.266837]}},
     {"type": "Feature", "properties": {"institution": "ELAN e.V."}, "geometry": {"type": "Point", "coordinates": [8.221309, 53.146394]}},
     {"type": "Feature", "properties": {"institution": "BHT University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13.3531956, 52.5447462]}},
+    {"type": "Feature", "properties": {"institution": "Heilbronn University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [9.209932893491, 49.122579599999995]}},
     {"type": "Feature", "properties": {"institution": "Philipps-Universität Marburg"}, "geometry": {"type": "Point", "coordinates": [8.773952898273755, 50.81038583000573]}},
     {"type": "Feature", "properties": {"institution": "University of Paderborn"}, "geometry": {"type": "Point", "coordinates": [8.76921, 51.70747]}},
     {"type": "Feature", "properties": {"institution": "University of Innsbruck"}, "geometry": {"type": "Point", "coordinates": [11.3358, 47.2855]}},
