@@ -16,6 +16,7 @@
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
     {"type": "Feature", "properties": {"institution": "Clausthal University of Technology"}, "geometry": {"type": "Point", "coordinates": [10.3425,51.8048]}},
     {"type": "Feature", "properties": {"institution": "HTW Berlin - University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13.52659,52.45841]}},
+    {"type": "Feature", "properties": {"institution": "Hochschule Bremen - City University of Applied Sciences, Bremen"}, "geometry": {"type": "Point", "coordinates": [8.792608, 53.07196]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Bremerhaven"}, "geometry": {"type": "Point", "coordinates": [8.5820637, 53.5397555]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Trier, Standort Trier"}, "geometry": {"type": "Point", "coordinates": [6.627989253174644, 49.76773682751381]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Trier, Umwelt-Campus Birkenfeld"}, "geometry": {"type": "Point", "coordinates": [7.168691769821732, 49.60834102698607]}},
