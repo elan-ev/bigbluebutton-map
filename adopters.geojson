@@ -35,6 +35,7 @@
     {"type": "Feature", "properties": {"institution": "h_da Univeristy of Applied Sciences Darmstadt"}, "geometry": {"type": "Point", "coordinates": [8.638140,49.867354]}},
     {"type": "Feature", "properties": {"institution": "GzEvD - Gesellschaft zur Entwicklung von Dingen mbH"}, "geometry": {"type": "Point", "coordinates": [13.3839152, 52.556229]}},
     {"type": "Feature", "properties": {"institution": "Technische Hochschule Wildau"}, "geometry": {"type": "Point", "coordinates": [13.632191, 52.318869]}},
-    {"type": "Feature", "properties": {"institution": "Johannes Gutenberg Universität Mainz"}, "geometry": {"type": "Point", "coordinates": [8.241261244470866, 49.99194767989749]}}
+    {"type": "Feature", "properties": {"institution": "Johannes Gutenberg Universität Mainz"}, "geometry": {"type": "Point", "coordinates": [8.241261244470866, 49.99194767989749]}},
+    {"type": "Feature", "properties": {"institution": "Carl von Ossietzky Universität Oldenburg"}, "geometry": {"type": "Point", "coordinates": [8.181507870668597, 53.14687220000000]}}
   ]
 }
