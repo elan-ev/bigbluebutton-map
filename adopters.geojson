@@ -15,6 +15,7 @@
     {"type": "Feature", "properties": {"institution": "University of Wismar"}, "geometry": {"type": "Point", "coordinates": [11.44578, 53.88987]}},
     {"type": "Feature", "properties": {"institution": "TU Hamburg"}, "geometry": {"type": "Point", "coordinates": [9.9697, 53.46348]}},
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
+    {"type": "Feature", "properties": {"institution": "bbbCONF - IBH IT-Service GmbH"}, "geometry": {"type": "Point", "coordinates": [13.70196, 51.00887]}},
     {"type": "Feature", "properties": {"institution": "Clausthal University of Technology"}, "geometry": {"type": "Point", "coordinates": [10.3425,51.8048]}},
     {"type": "Feature", "properties": {"institution": "HTW Berlin - University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13.52659,52.45841]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Bremen - City University of Applied Sciences, Bremen"}, "geometry": {"type": "Point", "coordinates": [8.792608, 53.07196]}},
