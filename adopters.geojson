@@ -15,6 +15,7 @@
     {"type": "Feature", "properties": {"institution": "University of Wismar"}, "geometry": {"type": "Point", "coordinates": [11.44578, 53.88987]}},
     {"type": "Feature", "properties": {"institution": "TU Hamburg"}, "geometry": {"type": "Point", "coordinates": [9.9697, 53.46348]}},
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
+    {"type": "Feature", "properties": {"institution": "bbbCONF - IBH IT-Service GmbH"}, "geometry": {"type": "Point", "coordinates": [13.70196, 51.00887]}},
     {"type": "Feature", "properties": {"institution": "Clausthal University of Technology"}, "geometry": {"type": "Point", "coordinates": [10.3425,51.8048]}},
     {"type": "Feature", "properties": {"institution": "HTW Berlin - University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13.52659,52.45841]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Bremen - City University of Applied Sciences, Bremen"}, "geometry": {"type": "Point", "coordinates": [8.792608, 53.07196]}},
@@ -22,6 +23,8 @@
     {"type": "Feature", "properties": {"institution": "Hochschule Trier, Standort Trier"}, "geometry": {"type": "Point", "coordinates": [6.627989253174644, 49.76773682751381]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Trier, Umwelt-Campus Birkenfeld"}, "geometry": {"type": "Point", "coordinates": [7.168691769821732, 49.60834102698607]}},
     {"type": "Feature", "properties": {"institution": "Technical University of Applied Sciences Lübeck"}, "geometry": {"type": "Point", "coordinates": [10.7002646, 53.837048]}},
+    {"type": "Feature", "properties": {"institution": "Hochschule Bochum, Campus Velbert/Heiligenhaus"}, "geometry": {"type": "Point", "coordinates": [6.96794, 51.32762]}},
+    {"type": "Feature", "properties": {"institution": "Hochschule Bochum"}, "geometry": {"type": "Point", "coordinates": [7.27248, 51.44711]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Essen"}, "geometry": {"type": "Point", "coordinates": [7.0037251, 51.4629195]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Duisburg"}, "geometry": {"type": "Point", "coordinates": [6.8008580326401, 51.4290899]}},
     {"type": "Feature", "properties": {"institution": "Hamburg University, MIN Faculty"}, "geometry": {"type": "Point", "coordinates": [9.9835937, 53.5578783]}},
@@ -37,6 +40,9 @@
     {"type": "Feature", "properties": {"institution": "Technische Hochschule Wildau"}, "geometry": {"type": "Point", "coordinates": [13.632191, 52.318869]}},
     {"type": "Feature", "properties": {"institution": "Johannes Gutenberg Universität Mainz"}, "geometry": {"type": "Point", "coordinates": [8.241261244470866, 49.99194767989749]}},
     {"type": "Feature", "properties": {"institution": "Carl von Ossietzky Universität Oldenburg"}, "geometry": {"type": "Point", "coordinates": [8.181507870668597, 53.14687220000000]}},
-    {"type": "Feature", "properties": {"institution": "Universität Koblenz-Landau"}, "geometry": {"type": "Point", "coordinates": [7.55992, 50.36430]}}
+    {"type": "Feature", "properties": {"institution": "Universität Koblenz-Landau"}, "geometry": {"type": "Point", "coordinates": [7.55992, 50.36430]}},
+    {"type": "Feature", "properties": {"institution": "Leibniz Universität Hannover"}, "geometry": {"type": "Point", "coordinates": [9.71779, 52.38253]}},
+    {"type": "Feature", "properties": {"institution": "Universität Graz"}, "geometry": {"type": "Point", "coordinates": [15.4495682, 47.0775895]}},
+    {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}}
   ]
 }
