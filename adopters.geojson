@@ -40,6 +40,7 @@
     {"type": "Feature", "properties": {"institution": "Technische Hochschule Wildau"}, "geometry": {"type": "Point", "coordinates": [13.632191, 52.318869]}},
     {"type": "Feature", "properties": {"institution": "Johannes Gutenberg Universität Mainz"}, "geometry": {"type": "Point", "coordinates": [8.241261244470866, 49.99194767989749]}},
     {"type": "Feature", "properties": {"institution": "Carl von Ossietzky Universität Oldenburg"}, "geometry": {"type": "Point", "coordinates": [8.181507870668597, 53.14687220000000]}},
+    {"type": "Feature", "properties": {"institution": "Universität Graz"}, "geometry": {"type": "Point", "coordinates": [15.4495682, 47.0775895]}},
     {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}}
   ]
 }
