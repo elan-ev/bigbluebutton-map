@@ -43,6 +43,7 @@
     {"type": "Feature", "properties": {"institution": "Universität Koblenz-Landau"}, "geometry": {"type": "Point", "coordinates": [7.55992, 50.36430]}},
     {"type": "Feature", "properties": {"institution": "Alice Salomon Hochschule"}, "geometry": {"type": "Point", "coordinates": [13.606204188065329, 52.5373816]}},
     {"type": "Feature", "properties": {"institution": "Leibniz Universität Hannover"}, "geometry": {"type": "Point", "coordinates": [9.71779, 52.38253]}},
+    {"type": "Feature", "properties": {"institution": "TU Graz"}, "geometry": {"type": "Point", "coordinates": [15.452971, 47.064519]}},
     {"type": "Feature", "properties": {"institution": "Universität Graz"}, "geometry": {"type": "Point", "coordinates": [15.4495682, 47.0775895]}},
     {"type": "Feature", "properties": {"institution": "Fachhochschule für Verwaltung und Dienstleistung"}, "geometry": {"type": "Point", "coordinates": [10.132838753973946, 54.40186773428514]}},
     {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}}
