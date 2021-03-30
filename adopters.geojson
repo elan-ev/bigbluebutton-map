@@ -23,6 +23,8 @@
     {"type": "Feature", "properties": {"institution": "Hochschule Trier, Standort Trier"}, "geometry": {"type": "Point", "coordinates": [6.627989253174644, 49.76773682751381]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Trier, Umwelt-Campus Birkenfeld"}, "geometry": {"type": "Point", "coordinates": [7.168691769821732, 49.60834102698607]}},
     {"type": "Feature", "properties": {"institution": "Technical University of Applied Sciences Lübeck"}, "geometry": {"type": "Point", "coordinates": [10.7002646, 53.837048]}},
+    {"type": "Feature", "properties": {"institution": "Hochschule Bochum, Campus Velbert/Heiligenhaus"}, "geometry": {"type": "Point", "coordinates": [6.96794, 51.32762]}},
+    {"type": "Feature", "properties": {"institution": "Hochschule Bochum"}, "geometry": {"type": "Point", "coordinates": [7.27248, 51.44711]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Essen"}, "geometry": {"type": "Point", "coordinates": [7.0037251, 51.4629195]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Duisburg"}, "geometry": {"type": "Point", "coordinates": [6.8008580326401, 51.4290899]}},
     {"type": "Feature", "properties": {"institution": "Hamburg University, MIN Faculty"}, "geometry": {"type": "Point", "coordinates": [9.9835937, 53.5578783]}},
