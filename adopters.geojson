@@ -50,6 +50,7 @@
     {"type": "Feature", "properties": {"institution": "Universität Graz"}, "geometry": {"type": "Point", "coordinates": [15.4495682, 47.0775895]}},
     {"type": "Feature", "properties": {"institution": "Fachhochschule für Verwaltung und Dienstleistung"}, "geometry": {"type": "Point", "coordinates": [10.132838753973946, 54.40186773428514]}},
     {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}},
-    {"type": "Feature", "properties": {"institution": "Senfcall.de/Computerwerk Darmstadt e.V."}, "geometry": {"type": "Point", "coordinates": [8.65604747485913, 49.87726442459792]}}
+    {"type": "Feature", "properties": {"institution": "Senfcall.de/Computerwerk Darmstadt e.V."}, "geometry": {"type": "Point", "coordinates": [8.65604747485913, 49.87726442459792]}},
+    {"type": "Feature", "properties": {"institution": "Institut Mines-Télécom"}, "geometry": {"type": "Point", "coordinates": [2.442883749991613, 48.6248523]}}
   ]
 }
