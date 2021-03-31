@@ -17,6 +17,8 @@
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
     {"type": "Feature", "properties": {"institution": "bbbCONF - IBH IT-Service GmbH"}, "geometry": {"type": "Point", "coordinates": [13.70196, 51.00887]}},
     {"type": "Feature", "properties": {"institution": "4viewture GmbH"}, "geometry": {"type": "Point", "coordinates": [13.58964, 51.03537]}},
+    {"type": "Feature", "properties": {"institution": "Schullogin.de"}, "geometry": {"type": "Point", "coordinates": [13.72901, 51.02940]}},
+    {"type": "Feature", "properties": {"institution": "Technical University of Dresden"}, "geometry": {"type": "Point", "coordinates": [13.70196, 51.00887]}},
     {"type": "Feature", "properties": {"institution": "Clausthal University of Technology"}, "geometry": {"type": "Point", "coordinates": [10.3425,51.8048]}},
     {"type": "Feature", "properties": {"institution": "HTW Berlin - University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13.52659,52.45841]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Bremen - City University of Applied Sciences, Bremen"}, "geometry": {"type": "Point", "coordinates": [8.792608, 53.07196]}},
@@ -44,8 +46,10 @@
     {"type": "Feature", "properties": {"institution": "Universität Koblenz-Landau"}, "geometry": {"type": "Point", "coordinates": [7.55992, 50.36430]}},
     {"type": "Feature", "properties": {"institution": "Alice Salomon Hochschule"}, "geometry": {"type": "Point", "coordinates": [13.606204188065329, 52.5373816]}},
     {"type": "Feature", "properties": {"institution": "Leibniz Universität Hannover"}, "geometry": {"type": "Point", "coordinates": [9.71779, 52.38253]}},
+    {"type": "Feature", "properties": {"institution": "TU Graz"}, "geometry": {"type": "Point", "coordinates": [15.452971, 47.064519]}},
     {"type": "Feature", "properties": {"institution": "Universität Graz"}, "geometry": {"type": "Point", "coordinates": [15.4495682, 47.0775895]}},
     {"type": "Feature", "properties": {"institution": "Fachhochschule für Verwaltung und Dienstleistung"}, "geometry": {"type": "Point", "coordinates": [10.132838753973946, 54.40186773428514]}},
-    {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}}
+    {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}},
+    {"type": "Feature", "properties": {"institution": "Senfcall.de/Computerwerk Darmstadt e.V."}, "geometry": {"type": "Point", "coordinates": [8.65604747485913, 49.87726442459792]}}
   ]
 }
