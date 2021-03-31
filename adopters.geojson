@@ -74,7 +74,7 @@
     {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [-0.5811, 44.8428]}},
     {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [5.1162, 47.3126]}},
     {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [-1.5533, 47.2181]}},
-    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [7.2685, 43.6989]}}
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [7.2685, 43.6989]}},
     {"type": "Feature", "properties": {"institution": "Aukfood"}, "geometry": {"type": "Point", "coordinates": [-1,4352446, 46,6741615 ]}}
   ]
 }
