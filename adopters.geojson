@@ -16,6 +16,7 @@
     {"type": "Feature", "properties": {"institution": "TU Hamburg"}, "geometry": {"type": "Point", "coordinates": [9.9697, 53.46348]}},
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
     {"type": "Feature", "properties": {"institution": "bbbCONF - IBH IT-Service GmbH"}, "geometry": {"type": "Point", "coordinates": [13.70196, 51.00887]}},
+    {"type": "Feature", "properties": {"institution": "4viewture GmbH"}, "geometry": {"type": "Point", "coordinates": [13.58964, 51.03537]}},
     {"type": "Feature", "properties": {"institution": "Schullogin.de"}, "geometry": {"type": "Point", "coordinates": [13.72901, 51.02940]}},
     {"type": "Feature", "properties": {"institution": "Technical University of Dresden"}, "geometry": {"type": "Point", "coordinates": [13.70196, 51.00887]}},
     {"type": "Feature", "properties": {"institution": "Clausthal University of Technology"}, "geometry": {"type": "Point", "coordinates": [10.3425,51.8048]}},
