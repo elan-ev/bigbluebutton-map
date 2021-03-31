@@ -53,6 +53,27 @@
     {"type": "Feature", "properties": {"institution": "Fachhochschule für Verwaltung und Dienstleistung"}, "geometry": {"type": "Point", "coordinates": [10.132838753973946, 54.40186773428514]}},
     {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}},
     {"type": "Feature", "properties": {"institution": "Senfcall.de/Computerwerk Darmstadt e.V."}, "geometry": {"type": "Point", "coordinates": [8.65604747485913, 49.87726442459792]}},
-    {"type": "Feature", "properties": {"institution": "Institut Mines-Télécom"}, "geometry": {"type": "Point", "coordinates": [2.442883749991613, 48.6248523]}}
+    {"type": "Feature", "properties": {"institution": "Institut Mines-Télécom"}, "geometry": {"type": "Point", "coordinates": [2.442883749991613, 48.6248523]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.6608169, 48.539927]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [7.7507127, 48.584614]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [6.0243622, 47.2380222]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.3514616, 48.8566969]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.0428293, 48.927439]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.4396714, 48.8474508]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.1319603, 48.8278506]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.3194375, 48.8188544]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.044185261805556, 48.78785575]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.0381228, 48.7698937]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [7.3682858, 47.7492477]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [0.7046455, 44.4056615]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [6.1536378, 48.6731344]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.5176985, 49.0032865]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [4.0098366, 43.6154825]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [6.7360182, 43.4330308]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [5.09802, 43.64055]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [-0.5811, 44.8428]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [5.1162, 47.3126]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [-1.5533, 47.2181]}},
+    {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [7.2685, 43.6989]}}
   ]
 }
