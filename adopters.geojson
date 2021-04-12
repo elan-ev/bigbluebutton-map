@@ -44,7 +44,7 @@
     {"type": "Feature", "properties": {"institution": "GzEvD - Gesellschaft zur Entwicklung von Dingen mbH"}, "geometry": {"type": "Point", "coordinates": [13.3839152, 52.556229]}},
     {"type": "Feature", "properties": {"institution": "Technische Hochschule Wildau"}, "geometry": {"type": "Point", "coordinates": [13.632191, 52.318869]}},
     {"type": "Feature", "properties": {"institution": "Johannes Gutenberg Universität Mainz"}, "geometry": {"type": "Point", "coordinates": [8.241261244470866, 49.99194767989749]}},
-	{"type": "Feature", "properties": {"institution": "RheinMain University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [8.216674, 50.080601]}},
+    {"type": "Feature", "properties": {"institution": "RheinMain University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [8.216674, 50.080601]}},
     {"type": "Feature", "properties": {"institution": "Carl von Ossietzky Universität Oldenburg"}, "geometry": {"type": "Point", "coordinates": [8.181507870668597, 53.14687220000000]}},
     {"type": "Feature", "properties": {"institution": "Universität Koblenz-Landau"}, "geometry": {"type": "Point", "coordinates": [7.55992, 50.36430]}},
     {"type": "Feature", "properties": {"institution": "Alice Salomon Hochschule"}, "geometry": {"type": "Point", "coordinates": [13.606204188065329, 52.5373816]}},
