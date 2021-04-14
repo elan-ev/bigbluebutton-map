@@ -52,6 +52,7 @@
     {"type": "Feature", "properties": {"institution": "rst-consulting.de"}, "geometry": {"type": "Point", "coordinates": [8.9366038, 48.7693395]}},
     {"type": "Feature", "properties": {"institution": "TU Graz"}, "geometry": {"type": "Point", "coordinates": [15.452971, 47.064519]}},
     {"type": "Feature", "properties": {"institution": "Universität Graz"}, "geometry": {"type": "Point", "coordinates": [15.4495682, 47.0775895]}},
+    {"type": "Feature", "properties": {"institution": "Hochschule für Technik und Wirtschaft Dresden"}, "geometry": {"type": "Point", "coordinates": [13.735155687776027, 51.03754545]}},
     {"type": "Feature", "properties": {"institution": "Fachhochschule für Verwaltung und Dienstleistung"}, "geometry": {"type": "Point", "coordinates": [10.132838753973946, 54.40186773428514]}},
     {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}},
     {"type": "Feature", "properties": {"institution": "Senfcall.de/Computerwerk Darmstadt e.V."}, "geometry": {"type": "Point", "coordinates": [8.65604747485913, 49.87726442459792]}},
