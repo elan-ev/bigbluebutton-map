@@ -80,6 +80,7 @@
     {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [-1.5533, 47.2181]}},
     {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [7.2685, 43.6989]}},
     {"type": "Feature", "properties": {"institution": "Aukfood"}, "geometry": {"type": "Point", "coordinates": [-1.4352446, 46.6741615 ]}},
-    {"type": "Feature", "properties": {"institution": "TU Delft, Faculty TBM"}, "geometry": {"type": "Point", "coordinates": [4.3694, 52.0025459 ]}}
+    {"type": "Feature", "properties": {"institution": "TU Delft, Faculty TBM"}, "geometry": {"type": "Point", "coordinates": [4.3694, 52.0025459 ]}},
+    {"type": "Feature", "properties": {"institution": "RIADVICE"}, "geometry": {"type": "Point", "coordinates": [10.2057799, 36.7088573]}}
   ]
 }
