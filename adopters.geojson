@@ -57,6 +57,7 @@
     {"type": "Feature", "properties": {"institution": "Fachhochschule für Verwaltung und Dienstleistung"}, "geometry": {"type": "Point", "coordinates": [10.132838753973946, 54.40186773428514]}},
     {"type": "Feature", "properties": {"institution": "Technische Universität Braunschweig"}, "geometry": {"type": "Point", "coordinates": [10.52926679419254, 52.27343450165634]}},
     {"type": "Feature", "properties": {"institution": "Senfcall.de/Computerwerk Darmstadt e.V."}, "geometry": {"type": "Point", "coordinates": [8.65604747485913, 49.87726442459792]}},
+    {"type": "Feature", "properties": {"institution": "City of Ulm"}, "geometry": {"type": "Point", "coordinates": [9.990333, 48.396472]}},
     {"type": "Feature", "properties": {"institution": "Institut Mines-Télécom"}, "geometry": {"type": "Point", "coordinates": [2.442883749991613, 48.6248523]}},
     {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [2.6608169, 48.539927]}},
     {"type": "Feature", "properties": {"institution": "TeachReo"}, "geometry": {"type": "Point", "coordinates": [7.7507127, 48.584614]}},
