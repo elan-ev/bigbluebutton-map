@@ -8,6 +8,7 @@
     {"type": "Feature", "properties": {"institution": "Philipps-Universität Marburg"}, "geometry": {"type": "Point", "coordinates": [8.773952898273755, 50.81038583000573]}},
     {"type": "Feature", "properties": {"institution": "University of Paderborn"}, "geometry": {"type": "Point", "coordinates": [8.76921, 51.70747]}},
     {"type": "Feature", "properties": {"institution": "University of Innsbruck"}, "geometry": {"type": "Point", "coordinates": [11.3358, 47.2855]}},
+    {"type": "Feature", "properties": {"institution": "MCI"}, "geometry": {"type": "Point", "coordinates": [11.3984367, 47.2692531]}},
     {"type": "Feature", "properties": {"institution": "SWEETGOOD"}, "geometry": {"type": "Point", "coordinates": [10.98729, 49.10773]}},
     {"type": "Feature", "properties": {"institution": "Brandenburgische Technische Universität Cottbus–Senftenberg"}, "geometry": {"type": "Point", "coordinates": [14.3228853, 51.7678493]}},
     {"type": "Feature", "properties": {"institution": "Christian-Albrechts-Universität zu Kiel"}, "geometry": {"type": "Point", "coordinates": [10.122530264587542, 54.3388276]}},
