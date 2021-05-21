@@ -35,6 +35,8 @@
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Duisburg"}, "geometry": {"type": "Point", "coordinates": [6.8008580326401, 51.4290899]}},
     {"type": "Feature", "properties": {"institution": "Hamburg University, MIN Faculty"}, "geometry": {"type": "Point", "coordinates": [9.9835937, 53.5578783]}},
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
+    {"type": "Feature", "properties": {"institution": "Universidade Federal de Juiz de Fora - Campus sede"}, "geometry": {"type": "Point", "coordinates": [-43.36877001614874, -21.77648953804816]}},
+    {"type": "Feature", "properties": {"institution": "Universidade Federal de Juiz de Fora - Campus GV"}, "geometry": {"type": "Point", "coordinates": [-41.94918019310874, -18.856339060042096]}},
     {"type": "Feature", "properties": {"institution": "University of Applied Sciences Zittau/Görlitz, Zittau"}, "geometry": {"type": "Point", "coordinates": [14.806356298150046,50.89345725488705]}},
     {"type": "Feature", "properties": {"institution": "University of Applied Sciences Zittau/Görlitz, Görlitz"}, "geometry": {"type": "Point", "coordinates": [14.998820666008614,51.14876834128409]}},
     {"type": "Feature", "properties": {"institution": "Virality GmbH - DieSchulApp.de"}, "geometry": {"type": "Point", "coordinates": [11.60332,48.14507]}},
