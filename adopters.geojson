@@ -84,6 +84,9 @@
     {"type": "Feature", "properties": {"institution": "Aukfood"}, "geometry": {"type": "Point", "coordinates": [-1.4352446, 46.6741615 ]}},
     {"type": "Feature", "properties": {"institution": "TU Delft, Faculty TBM"}, "geometry": {"type": "Point", "coordinates": [4.3694, 52.0025459 ]}},
     {"type": "Feature", "properties": {"institution": "RIADVICE"}, "geometry": {"type": "Point", "coordinates": [10.2057799, 36.7088573]}},
-    {"type": "Feature", "properties": {"institution": "PrivacyLx"}, "geometry": {"type": "Point", "coordinates": [-9.15808, 38.74410]}}
+    {"type": "Feature", "properties": {"institution": "PrivacyLx"}, "geometry": {"type": "Point", "coordinates": [-9.15808, 38.74410]}},
+    {"type": "Feature", "properties": {"institution": "Yaşar University"}, "geometry": {"type": "Point", "coordinates": [38.4547698, 27.2000999]}},
+    {"type": "Feature", "properties": {"institution": "Ege University"}, "geometry": {"type": "Point", "coordinates": [38.4574615, 27.226028]}},
+    {"type": "Feature", "properties": {"institution": "Dokuz Eylül University"}, "geometry": {"type": "Point", "coordinates": [38.430691, 27.1347313]}}
   ]
 }
