@@ -2,6 +2,7 @@
   "type":"FeatureCollection",
   "features":[
     {"type": "Feature", "properties": {"institution": "Osnabr\u00fcck University"}, "geometry": {"type": "Point", "coordinates": [8.049741, 52.266837]}},
+    {"type": "Feature", "properties": {"institution": "National Institute of Technology Karnataka, Surathkal"}, "geometry": {"type": "Point", "coordinates": [74.79426475626927, 13.010859458329575]}},
     {"type": "Feature", "properties": {"institution": "ELAN e.V."}, "geometry": {"type": "Point", "coordinates": [8.221309, 53.146394]}},
     {"type": "Feature", "properties": {"institution": "BHT University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [13.3531956, 52.5447462]}},
     {"type": "Feature", "properties": {"institution": "Heilbronn University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [9.209932893491, 49.122579599999995]}},
@@ -31,6 +32,7 @@
     {"type": "Feature", "properties": {"institution": "Technical University of Applied Sciences Lübeck"}, "geometry": {"type": "Point", "coordinates": [10.7002646, 53.837048]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Bochum, Campus Velbert/Heiligenhaus"}, "geometry": {"type": "Point", "coordinates": [6.96794, 51.32762]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Bochum"}, "geometry": {"type": "Point", "coordinates": [7.27248, 51.44711]}},
+    {"type": "Feature", "properties": {"institution": "INSA Lyon"}, "geometry": {"type": "Point", "coordinates": [4.8759893530497695, 45.7830905]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Essen"}, "geometry": {"type": "Point", "coordinates": [7.0037251, 51.4629195]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Duisburg"}, "geometry": {"type": "Point", "coordinates": [6.8008580326401, 51.4290899]}},
     {"type": "Feature", "properties": {"institution": "Hamburg University, MIN Faculty"}, "geometry": {"type": "Point", "coordinates": [9.9835937, 53.5578783]}},
@@ -88,6 +90,10 @@
     {"type": "Feature", "properties": {"institution": "RIADVICE"}, "geometry": {"type": "Point", "coordinates": [10.2057799, 36.7088573]}},
     {"type": "Feature", "properties": {"institution": "PrivacyLx"}, "geometry": {"type": "Point", "coordinates": [-9.15808, 38.74410]}},
     {"type": "Feature", "properties": {"institution": "Ventspils University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [21.5461, 57.3848]}},
-    {"type": "Feature", "properties": {"institution": "i3Campus - Colombia"}, "geometry": {"type": "Point", "coordinates": [4.67537,-74.12198]}}
+    {"type": "Feature", "properties": {"institution": "i3Campus - Colombia"}, "geometry": {"type": "Point", "coordinates": [4.67537,-74.12198]}},
+    {"type": "Feature", "properties": {"institution": "Waldorfschule Hildesheim"}, "geometry": {"type": "Point", "coordinates": [9.92001, 52.14571]}},
+    {"type": "Feature", "properties": {"institution": "Yaşar University"}, "geometry": {"type": "Point", "coordinates": [27.20246, 38.4546]}},
+    {"type": "Feature", "properties": {"institution": "Ege University"}, "geometry": {"type": "Point", "coordinates": [27.226028,38.4574615]}},
+    {"type": "Feature", "properties": {"institution": "Dokuz Eylül University"}, "geometry": {"type": "Point", "coordinates": [27.1347313, 38.430691]}}
   ]
 }
