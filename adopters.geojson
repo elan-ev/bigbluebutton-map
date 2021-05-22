@@ -1,6 +1,7 @@
 {
   "type":"FeatureCollection",
   "features":[
+    {"type": "Feature", "properties": {"institution": "Universidade Federal de Pelotas (UFPel)"}, "geometry": {"type": "Point", "coordinates": [-52.322916952486324,-31.781289776160687]}},
     {"type": "Feature", "properties": {"institution": "Osnabr\u00fcck University"}, "geometry": {"type": "Point", "coordinates": [8.049741, 52.266837]}},
     {"type": "Feature", "properties": {"institution": "National Institute of Technology Karnataka, Surathkal"}, "geometry": {"type": "Point", "coordinates": [74.79426475626927, 13.010859458329575]}},
     {"type": "Feature", "properties": {"institution": "ELAN e.V."}, "geometry": {"type": "Point", "coordinates": [8.221309, 53.146394]}},
