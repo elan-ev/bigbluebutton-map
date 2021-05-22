@@ -87,6 +87,6 @@
     {"type": "Feature", "properties": {"institution": "TU Delft, Faculty TBM"}, "geometry": {"type": "Point", "coordinates": [4.3694, 52.0025459 ]}},
     {"type": "Feature", "properties": {"institution": "RIADVICE"}, "geometry": {"type": "Point", "coordinates": [10.2057799, 36.7088573]}},
     {"type": "Feature", "properties": {"institution": "PrivacyLx"}, "geometry": {"type": "Point", "coordinates": [-9.15808, 38.74410]}},
-    {"type": "Feature", "properties": {"institution": "Yasar University"}, "geometry": {"type": "Point", "coordinates": [38.228642, 27.969820]}}
+    {"type": "Feature", "properties": {"institution": "Yasar University"}, "geometry": {"type": "Point", "coordinates": [38.4541810, 27.2026285]}}
   ]
 }
