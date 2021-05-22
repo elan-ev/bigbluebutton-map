@@ -88,8 +88,6 @@
     {"type": "Feature", "properties": {"institution": "RIADVICE"}, "geometry": {"type": "Point", "coordinates": [10.2057799, 36.7088573]}},
     {"type": "Feature", "properties": {"institution": "PrivacyLx"}, "geometry": {"type": "Point", "coordinates": [-9.15808, 38.74410]}},
     {"type": "Feature", "properties": {"institution": "Yaşar University"}, "geometry": {"type": "Point", "coordinates": [38.4544343,27.20245351064157
-]}},
-    {"type": "Feature", "properties": {"institution": "Ege University"}, "geometry": {"type": "Point", "coordinates": [38.4576211066423, 27.22824888429535]}},
-    {"type": "Feature", "properties": {"institution": "Dokuz Eylül University"}, "geometry": {"type": "Point", "coordinates": [38.4307486940877, 27.136910952924303]}}
+]}}
   ]
 }
