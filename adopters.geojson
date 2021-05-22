@@ -88,6 +88,8 @@
     {"type": "Feature", "properties": {"institution": "TU Delft, Faculty TBM"}, "geometry": {"type": "Point", "coordinates": [4.3694, 52.0025459 ]}},
     {"type": "Feature", "properties": {"institution": "RIADVICE"}, "geometry": {"type": "Point", "coordinates": [10.2057799, 36.7088573]}},
     {"type": "Feature", "properties": {"institution": "PrivacyLx"}, "geometry": {"type": "Point", "coordinates": [-9.15808, 38.74410]}},
-    {"type": "Feature", "properties": {"institution": "Ventspils University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [21.5461, 57.3848]}}
+    {"type": "Feature", "properties": {"institution": "Yaşar University"}, "geometry": {"type": "Point", "coordinates": [27.20246, 38.4546]}},
+    {"type": "Feature", "properties": {"institution": "Ege University"}, "geometry": {"type": "Point", "coordinates": [27.226028,38.4574615]}},
+    {"type": "Feature", "properties": {"institution": "Dokuz Eylül University"}, "geometry": {"type": "Point", "coordinates": [27.1347313, 38.430691]}}
   ]
 }
