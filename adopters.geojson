@@ -90,6 +90,7 @@
     {"type": "Feature", "properties": {"institution": "RIADVICE"}, "geometry": {"type": "Point", "coordinates": [10.2057799, 36.7088573]}},
     {"type": "Feature", "properties": {"institution": "PrivacyLx"}, "geometry": {"type": "Point", "coordinates": [-9.15808, 38.74410]}},
     {"type": "Feature", "properties": {"institution": "Ventspils University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [21.5461, 57.3848]}},
+    {"type": "Feature", "properties": {"institution": "i3Campus - Colombia"}, "geometry": {"type": "Point", "coordinates": [-74.12198,4.67537]}},
     {"type": "Feature", "properties": {"institution": "Waldorfschule Hildesheim"}, "geometry": {"type": "Point", "coordinates": [9.92001, 52.14571]}},
     {"type": "Feature", "properties": {"institution": "Yaşar University"}, "geometry": {"type": "Point", "coordinates": [27.20246, 38.4546]}},
     {"type": "Feature", "properties": {"institution": "Ege University"}, "geometry": {"type": "Point", "coordinates": [27.226028,38.4574615]}},
