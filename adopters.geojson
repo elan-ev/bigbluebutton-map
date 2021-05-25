@@ -95,6 +95,7 @@
     {"type": "Feature", "properties": {"institution": "Waldorfschule Hildesheim"}, "geometry": {"type": "Point", "coordinates": [9.92001, 52.14571]}},
     {"type": "Feature", "properties": {"institution": "Yaşar University"}, "geometry": {"type": "Point", "coordinates": [27.20246, 38.4546]}},
     {"type": "Feature", "properties": {"institution": "Ege University"}, "geometry": {"type": "Point", "coordinates": [27.226028,38.4574615]}},
-    {"type": "Feature", "properties": {"institution": "Dokuz Eylül University"}, "geometry": {"type": "Point", "coordinates": [27.1347313, 38.430691]}}
+    {"type": "Feature", "properties": {"institution": "Dokuz Eylül University"}, "geometry": {"type": "Point", "coordinates": [27.1347313, 38.430691]}},
+    {"type": "Feature", "properties": {"institution": "<a href='https://gfoss.eu'>GFOSS - Open Technologies Alliance</a>"}, "geometry": {"type": "Point", "coordinates": [23.7810545,37.9781205]}}
   ]
 }
