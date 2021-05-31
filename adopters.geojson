@@ -102,6 +102,9 @@
     {"type": "Feature", "properties": {"institution": "Ege University"}, "geometry": {"type": "Point", "coordinates": [27.226028,38.4574615]}},
     {"type": "Feature", "properties": {"institution": "Dokuz Eylül University"}, "geometry": {"type": "Point", "coordinates": [27.1347313, 38.430691]}},
     {"type": "Feature", "properties": {"institution": "Avignon Université"}, "geometry": {"type": "Point", "coordinates": [4.81800084304089, 43.94915615]}},
-    {"type": "Feature", "properties": {"institution": "<a href='https://gfoss.eu'>GFOSS - Open Technologies Alliance</a>"}, "geometry": {"type": "Point", "coordinates": [23.7810545,37.9781205]}}
+    {"type": "Feature", "properties": {"institution": "<a href='https://gfoss.eu'>GFOSS - Open Technologies Alliance</a>"}, "geometry": {"type": "Point", "coordinates": [23.7810545,37.9781205]}},
+    {"type": "Feature", "properties": {"institution": "Berufsbildungszentrum Biel, Centre de formation professionnelle - Campus Wasenstrasse"}, "geometry": {"type": "Point", "coordinates": [7.254817572593931,47.14532175]}},
+    {"type": "Feature", "properties": {"institution": "Berufsbildungszentrum Biel, Centre de formation professionnelle - Campus Linde"}, "geometry": {"type": "Point", "coordinates": [7.266820069803174,47.13787045]}},
+    {"type": "Feature", "properties": {"institution": "Berufsbildungszentrum Biel, Centre de formation professionnelle - Campus TFS"}, "geometry": {"type": "Point", "coordinates": [7.2433915,47.1290905]}}
   ]
 }
