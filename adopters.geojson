@@ -39,6 +39,7 @@
     {"type": "Feature", "properties": {"institution": "Hochschule Bochum, Campus Velbert/Heiligenhaus"}, "geometry": {"type": "Point", "coordinates": [6.96794, 51.32762]}},
     {"type": "Feature", "properties": {"institution": "Hochschule Bochum"}, "geometry": {"type": "Point", "coordinates": [7.27248, 51.44711]}},
     {"type": "Feature", "properties": {"institution": "INSA Lyon"}, "geometry": {"type": "Point", "coordinates": [4.8759893530497695, 45.7830905]}},
+    {"type": "Feature", "properties": {"institution": "INSPE de Bretagne (Université de Bretagne Occidentale"}, "geometry": {"type": "Point", "coordinates": [-1.684602, 48.121764]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Essen"}, "geometry": {"type": "Point", "coordinates": [7.0037251, 51.4629195]}},
     {"type": "Feature", "properties": {"institution": "University of Duisburg-Essen, Campus Duisburg"}, "geometry": {"type": "Point", "coordinates": [6.8008580326401, 51.4290899]}},
     {"type": "Feature", "properties": {"institution": "Hamburg University, MIN Faculty"}, "geometry": {"type": "Point", "coordinates": [9.9835937, 53.5578783]}},
