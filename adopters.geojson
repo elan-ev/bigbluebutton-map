@@ -108,6 +108,7 @@
     {"type": "Feature", "properties": {"institution": "Berufsbildungszentrum Biel, Centre de formation professionnelle - Campus Wasenstrasse"}, "geometry": {"type": "Point", "coordinates": [7.254817572593931,47.14532175]}},
     {"type": "Feature", "properties": {"institution": "Berufsbildungszentrum Biel, Centre de formation professionnelle - Campus Linde"}, "geometry": {"type": "Point", "coordinates": [7.266820069803174,47.13787045]}},
     {"type": "Feature", "properties": {"institution": "Berufsbildungszentrum Biel, Centre de formation professionnelle - Campus TFS"}, "geometry": {"type": "Point", "coordinates": [7.2433915,47.1290905]}},
-    {"type": "Feature", "properties": {"institution": "Pro Velo asbl"}, "geometry": {"type": "Point", "coordinates": [4.3675701,  50.8380129]}}
+    {"type": "Feature", "properties": {"institution": "Pro Velo asbl"}, "geometry": {"type": "Point", "coordinates": [4.3675701,  50.8380129]}},
+    {"type": "Feature", "properties": {"institution": "Shobara Campus, Prefectural University of Hiroshima"}, "geometry": {"type": "Point", "coordinates": [132.974828833339, 34.82596916482819]}}
   ]
 }
