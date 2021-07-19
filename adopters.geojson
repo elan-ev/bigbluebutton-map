@@ -21,6 +21,7 @@
     {"type": "Feature", "properties": {"institution": "Christian-Albrechts-Universität zu Kiel"}, "geometry": {"type": "Point", "coordinates": [10.122530264587542, 54.3388276]}},
     {"type": "Feature", "properties": {"institution": "University of Vechta"}, "geometry": {"type": "Point", "coordinates": [8.2937678, 52.7211561]}},
     {"type": "Feature", "properties": {"institution": "University of Wismar"}, "geometry": {"type": "Point", "coordinates": [11.44578, 53.88987]}},
+    {"type": "Feature", "properties": {"institution": "K3 Innovationen GmbH"}, "geometry": {"type": "Point", "coordinates": [6.4873169673500115, 50.802802214869196]}},
     {"type": "Feature", "properties": {"institution": "TU Hamburg"}, "geometry": {"type": "Point", "coordinates": [9.9697, 53.46348]}},
     {"type": "Feature", "properties": {"institution": "Chemnitz University of Technology"}, "geometry": {"type": "Point", "coordinates": [12.92812, 50.83889]}},
     {"type": "Feature", "properties": {"institution": "bbbCONF - IBH IT-Service GmbH"}, "geometry": {"type": "Point", "coordinates": [13.70430, 51.00885]}},
