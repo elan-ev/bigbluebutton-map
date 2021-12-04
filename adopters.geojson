@@ -98,7 +98,7 @@
     {"type": "Feature", "properties": {"institution": "RIADVICE"}, "geometry": {"type": "Point", "coordinates": [10.2057799, 36.7088573]}},
     {"type": "Feature", "properties": {"institution": "PrivacyLx"}, "geometry": {"type": "Point", "coordinates": [-9.15808, 38.74410]}},
     {"type": "Feature", "properties": {"institution": "Ventspils University of Applied Sciences"}, "geometry": {"type": "Point", "coordinates": [21.5461, 57.3848]}},
-    {"type": "Feature", "properties": {"institution": "Voronezh State Technical University"}, "geometry": {"type": "Point", "coordinates": [51.65242, 39.19231]}},
+    {"type": "Feature", "properties": {"institution": "Voronezh State Technical University"}, "geometry": {"type": "Point", "coordinates": [39.19231, 51.65242]}},
     {"type": "Feature", "properties": {"institution": "Weizmann institute of science, science teaching department"}, "geometry": {"type": "Point", "coordinates": [34.811533, 31.907875]}},
     {"type": "Feature", "properties": {"institution": "i3Campus - Colombia"}, "geometry": {"type": "Point", "coordinates": [-74.12198,4.67537]}},
     {"type": "Feature", "properties": {"institution": "Waldorfschule Hildesheim"}, "geometry": {"type": "Point", "coordinates": [9.92001, 52.14571]}},
