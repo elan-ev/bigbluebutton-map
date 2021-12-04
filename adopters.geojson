@@ -113,6 +113,6 @@
     {"type": "Feature", "properties": {"institution": "Shobara Campus, Prefectural University of Hiroshima"}, "geometry": {"type": "Point", "coordinates": [132.974828833339, 34.82596916482819]}},
     {"type": "Feature", "properties": {"institution": "Theresien-Gymnasium München"}, "geometry": {"type": "Point", "coordinates": [11.55629, 48.13160]}},
     {"type": "Feature", "properties": {"institution": "Zentrum für Schulqualität und Lehrerbildung"}, "geometry": {"type": "Point", "coordinates": [9.17834, 48.81574]}},
-    {"type": "Feature", "properties": {"institution": "\nأَصحاب الكساء عليهم الصلاة وَالسلام النُّجُومُ الخَمْسَةِ (ع)"}, "geometry": {"type": "Point", "coordinates": [44.38958,33.28298]}}
+    {"type": "Feature", "properties": {"institution": "أَصحاب الكساء عليهم الصلاة والسلام \nموقع النجوم الخمسة (ع)"}, "geometry": {"type": "Point", "coordinates": [44.38958,33.28298]}}
   ]
 }
