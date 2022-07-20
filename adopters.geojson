@@ -117,7 +117,7 @@
     {"type": "Feature", "properties": {"institution": "Theresien-Gymnasium München"}, "geometry": {"type": "Point", "coordinates": [11.55629, 48.13160]}},
     {"type": "Feature", "properties": {"institution": "Zentrum für Schulqualität und Lehrerbildung"}, "geometry": {"type": "Point", "coordinates": [9.17834, 48.81574]}},
     {"type": "Feature", "properties": {"institution": "موقع النجوم الخمسة (ع) https://the5stars.org \n"}, "geometry": {"type": "Point", "coordinates": [44.38958,33.28298]}},
-    {"type": "Feature", "properties": {"institution": "GIP RECIA"}, "geometry": {"type": "Point", "coordinates": [1.94146,47.82962]}}
-    {"type": "Feature", "properties": {"institution": "Technische Universität Berlin"}, "geometry": {"type": "Point", "coordinates": [52.51206, 13.32703]}}
+    {"type": "Feature", "properties": {"institution": "GIP RECIA"}, "geometry": {"type": "Point", "coordinates": [1.94146,47.82962]}},
+    {"type": "Feature", "properties": {"institution": "Technische Universität Berlin"}, "geometry": {"type": "Point", "coordinates": [13.32703, 52.51206]}}
   ]
 }
